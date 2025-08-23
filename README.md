@@ -9,8 +9,8 @@ Raspberry Pi Pico WH
 ブレッドボード EIC-301  
 USBケーブル USB2.0 Aオス-マイクロBオス 0.15m A-microB  
 ブレッドボード・ジャンパーワイヤ 15cm黒と白  
-BMP280 3.3V I2C IIC (抵抗103)
-Freenove I2C LCD 1602
+BMP280 3.3V I2C IIC (抵抗103)  
+Freenove I2C LCD 1602 (5V)
 
 ソフトウェア  
 bmp280_print(main).py  
