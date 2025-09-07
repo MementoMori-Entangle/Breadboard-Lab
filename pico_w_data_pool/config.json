@@ -1,0 +1,7 @@
+{
+  "pool_capacity": 3,
+  "fetch_retry_count": 5,
+  "process_mode": "A",
+  "server_url": "http://192.168.11.3:8080/api/data",
+  "warn_pool_count": 2
+}
